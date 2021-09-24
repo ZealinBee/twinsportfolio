@@ -1,0 +1,29 @@
+body {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.desicomments.com%2Fwallpapers%2Fwp-content%2Fuploads%2F2014%2F12%2FOcean-Background-Image.jpg&f=1&nofb=1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2 {
+  color: black;
+}
+
+a {
+  padding-top: 2em;
+  color: white;
+  font-size: 1.5em;
+}
+
+a:hover {
+  color: gray;
+}
+
+img {
+  width: 300px;
+}
